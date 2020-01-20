@@ -1,6 +1,6 @@
 # is-pyramid-word
 
-A response to a coding challenge. This is a simple Node/Express server with a single endpoint that will evaluate whether or not a supplied word is a pyramid word.
+This simple Node/Express server was written in response to a coding challenge. It provides a single endpoint that will simply evaluate whether or not a supplied word is a pyramid word.
 
 A word is a ‘pyramid’ word if you can arrange the letters in increasing frequency, starting with 1 and continuing without gaps and without duplicates.
 
